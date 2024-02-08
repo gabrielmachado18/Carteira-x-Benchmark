@@ -61,6 +61,6 @@ Temos um gráfico que ilustra o **crescimento acumulado** da carteira de investi
 
 Se a sua carteira for compostas de **ações brasileiras**, por conta da biblioteca `yfinance`, é necessário adicionar **".SA"** ao final dos *tickers*:
 
-- Petrobrás → PETR4 → **PETR4.SA**
+- Petrobras → PETR4 → **PETR4.SA**
 - Vale → VALE3 → **VALE3.SA**
 - Banco do Brasil → BBDC4 → **BBDC4.SA**
